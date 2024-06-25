@@ -2,7 +2,7 @@
 
 This project does a quick pull of the City of Chicago's 2017 Parking Ticket data, summarized by ward.
 
-Then uses python to join those features to a GeoJSON Ward map so I can present which wards have the worst proportion of "Paid" tickets, over the respective set of issued tickets for that ward. The map was made using [Felt](https://felt.com/about).
+Then uses python to join those features to a GeoJSON Ward map so I can present which wards have the worst proportion of "Paid" tickets, over the respective set of issued tickets for that ward. The map was made by dropping the final transformed dataset `ticketing_wards_2017.geoJSON` into [Felt](https://felt.com/about).
 
 ![Chicago's Top-10 Worst Ticket Collection Wards (2017)](https://github.com/BrendanMurnen/chicago-parking-tickets-2017/assets/47643845/8e620624-ddd4-4a7d-a089-f16c781f7e63)
 
